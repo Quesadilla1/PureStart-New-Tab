@@ -1,74 +1,114 @@
-PureStart Privacy Policy
+🌟 PureStart — Feature Overview
+PureStart is a Safari‑inspired new tab page for Chromium browsers, designed to be clean, fast, and fully local‑first. It replaces the default new tab with a focused start page built around your bookmarks, your workflow, and your personal style.
 
-Overview
-PureStart is a local‑first browser extension designed to replace the new tab page with a customizable start screen. PureStart does not collect, store, transmit, or share any personal information.
+⭐ Core Features
+📁 Favorites Grid from Your Bookmarks
+Choose any bookmarks folder as your “home”
 
-Information We Do Not Collect
-PureStart does not collect or transmit:
+Tiles open bookmarks instantly
 
-personal data
+Folders open in smooth panels
 
-browsing history
+Drag‑and‑drop support
 
-bookmarks or bookmark contents
+Edit, rename, and move bookmarks directly from the UI
 
-IP addresses
+Changes sync automatically with the browser
 
-device identifiers
+🧠 Auto‑Organized Categories (Optional)
+Automatically groups loose bookmarks into virtual categories such as:
 
-analytics or telemetry
+Video
 
-usage statistics
+Social
 
-search queries
+Tools & Dev
 
-extension settings
+News & Weather
 
-notes or custom backgrounds
+Shopping & Travel
 
-any data that can identify you
+Music
 
-PureStart has no servers, no accounts, and no remote logging.
+Gaming
 
-Information Processed Locally
-PureStart uses standard browser APIs to function. All data stays on your device:
+Resources
 
-Bookmarks API — used only to read and display your bookmarks
+Homelab
 
-Top Sites API — used to show optional “Most Used” sites
+Other
 
-Storage API — used to store your settings locally or via browser‑sync
+No changes are made to your actual bookmarks — everything is virtual and non‑destructive.
 
-Favicon API / optional host permissions — used to fetch icons directly from the sites you visit or from local network services (if enabled)
+🔍 Built‑In Search
+Search directly from the new tab using:
 
-None of this data leaves your browser.
+DuckDuckGo
 
-Optional Host Permissions
-PureStart includes optional features that may request <all_urls> host permission to fetch icons from bookmarked sites or local services.
-This permission is used only to retrieve icons and is never used to collect or transmit data.
+Google
 
-Third‑Party Services
-PureStart does not use:
+Brave
 
-analytics providers
+Kagi
 
-advertising networks
+Startpage
 
-tracking scripts
+Bing
 
-external APIs
+Custom search engines using %s
 
-Data Sharing
-PureStart does not share any data with anyone.
-No data is sent to the developer or any third party.
+🎨 Personalization & Appearance
+Customize PureStart to match your style:
 
-Children’s Privacy
-PureStart does not collect any data and is safe for all ages.
+Light, dark, or auto theme
 
-Changes to This Policy
-If this policy is updated, the new version will be published at the same URL.
+Small / medium / large tile sizes
 
-Contact
-If you have questions or concerns, you can contact the developer via the project’s GitHub repository:
+Solid color, gradient, bundled wallpaper, or custom background
 
-https://github.com/Quesadilla1/PureStart-New-Tab
+Optional clock with locale, 24‑hour mode, seconds, and date
+
+Optional sticky notes panel
+
+🖼️ High‑Quality Icons (Optional)
+Two enhanced icon modes:
+
+High‑quality icons — fetches icons directly from bookmarked sites
+
+Homelab mode — fetches icons for local/private services and caches them per host:port
+
+Both features are fully optional and require <all_urls> only when enabled.
+
+📊 Most Used / Top Sites (Optional)
+Shows your most visited sites using the browser’s topSites API
+
+Exclude hosts you don’t want to see
+
+💾 Settings Backup & Restore
+Export all settings
+
+Import settings
+
+Optionally include notes and custom backgrounds
+
+Full reset option
+
+⌨️ Keyboard Shortcuts
+/ — focus search
+
+? — open shortcut help
+
+1–9 — open favorite by position
+
+Esc — close panels or dialogs
+
+🔐 Local‑First by Design
+PureStart:
+
+has no telemetry
+
+has no accounts
+
+sends no data to any server
+
+stores everything locally or via browser sync
