@@ -14,6 +14,9 @@ Backup & restore — export and import all settings, notes, and custom backgroun
 
 Privacy
 PureStart collects nothing, sends nothing, and requires no account. Every optional network feature (icon fetching, custom backgrounds from URLs) is clearly labeled and off by default unless you turn it on.
+
+https://microsoftedge.microsoft.com/addons/detail/purestart/lbjahhodjjgabbgpfpgjonlbhjifgedi
+
 ![stuff5](img/1.png)
 ![stuff5](img/2.png)
 ![stuff5](img/3.png)
