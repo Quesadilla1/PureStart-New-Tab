@@ -1,114 +1,19 @@
-🌟 PureStart — Feature Overview
-PureStart is a Safari‑inspired new tab page for Chromium browsers, designed to be clean, fast, and fully local‑first. It replaces the default new tab with a focused start page built around your bookmarks, your workflow, and your personal style.
+PureStart — A clean new tab page that turns your bookmarks into a real start page.
+No account. No telemetry. No cloud sync. Your bookmarks stay where they already are — in your browser, on your device.
+PureStart replaces Edge's default new tab with a fast, customizable page built around the bookmarks folder of your choice. Drag-and-drop organization, inline editing, and folder navigation — all synced directly with your browser's bookmark store.
 
-⭐ Core Features
-📁 Favorites Grid from Your Bookmarks
-Choose any bookmarks folder as your “home”
+Features
 
-Tiles open bookmarks instantly
+Favorites grid — pick any bookmarks folder and view it as a visual grid with drag-and-drop, folder navigation, and inline editing.
+Auto-organized categories — optionally group loose bookmarks into virtual categories (Video, Social, Tools & Dev, News, Shopping, and more) without touching your actual bookmark structure.
+Enhanced icons — fetch high-quality site icons, with optional Homelab mode for local icon services.
+Built-in search — use any search engine, or a custom %s URL.
+Top sites — optionally surface your most-visited sites via the browser's topSites API, with per-host exclusions.
+Personalization — light, dark, or auto theme; solid colors, gradients, bundled wallpapers, or your own images; adjustable tile sizes; optional clock and notes panel.
+Backup & restore — export and import all settings, notes, and custom backgrounds as a single file.
 
-Folders open in smooth panels
-
-Drag‑and‑drop support
-
-Edit, rename, and move bookmarks directly from the UI
-
-Changes sync automatically with the browser
-
-🧠 Auto‑Organized Categories (Optional)
-Automatically groups loose bookmarks into virtual categories such as:
-
-Video
-
-Social
-
-Tools & Dev
-
-News & Weather
-
-Shopping & Travel
-
-Music
-
-Gaming
-
-Resources
-
-Homelab
-
-Other
-
-No changes are made to your actual bookmarks — everything is virtual and non‑destructive.
-
-🔍 Built‑In Search
-Search directly from the new tab using:
-
-DuckDuckGo
-
-Google
-
-Brave
-
-Kagi
-
-Startpage
-
-Bing
-
-Custom search engines using %s
-
-🎨 Personalization & Appearance
-Customize PureStart to match your style:
-
-Light, dark, or auto theme
-
-Small / medium / large tile sizes
-
-Solid color, gradient, bundled wallpaper, or custom background
-
-Optional clock with locale, 24‑hour mode, seconds, and date
-
-Optional sticky notes panel
-
-🖼️ High‑Quality Icons (Optional)
-Two enhanced icon modes:
-
-High‑quality icons — fetches icons directly from bookmarked sites
-
-Homelab mode — fetches icons for local/private services and caches them per host:port
-
-Both features are fully optional and require <all_urls> only when enabled.
-
-📊 Most Used / Top Sites (Optional)
-Shows your most visited sites using the browser’s topSites API
-
-Exclude hosts you don’t want to see
-
-💾 Settings Backup & Restore
-Export all settings
-
-Import settings
-
-Optionally include notes and custom backgrounds
-
-Full reset option
-
-⌨️ Keyboard Shortcuts
-/ — focus search
-
-? — open shortcut help
-
-1–9 — open favorite by position
-
-Esc — close panels or dialogs
-
-🔐 Local‑First by Design
-PureStart:
-
-has no telemetry
-
-has no accounts
-
-sends no data to any server
-
-stores everything locally or via browser sync
+Privacy
+PureStart collects nothing, sends nothing, and requires no account. Every optional network feature (icon fetching, custom backgrounds from URLs) is clearly labeled and off by default unless you turn it on.
+![stuff5](img/1.png)
+![stuff5](img/2.png)
+![stuff5](img/3.png)
